@@ -1,0 +1,29 @@
+.search-bar {
+    background-color: #EEEEEE ;
+    width: 90%;
+}
+.special-search {
+    background-color:#7EE5DA ;
+    padding:15px;
+}
+.info {
+    background-color: #70CCC2;
+    padding: 12px;
+    font-size: 12px;;
+}
+.subscription {
+    background-color: #62B3AA;
+    padding: 6px;
+    font-size: 12px;
+}
+table {
+    width: 90%;
+    text-align: center;
+}
+#searchbar {
+    width: 325px;
+}
+.copyright {
+ margin: 10px;   
+ font-size: 12px;
+}
